@@ -39,25 +39,8 @@ For each video, the agent collects:
  🏗️ Architecture
 
 
-YouTube Search API
-        │  (Video IDs)
-        ▼
-Video Details Extractor  (title, description, ...)
-        │
-        ▼
-Comments Fetcher  (Top 20 comments)
-        │
-        ▼
-Text Processor & Brand Counter  (Atomberg / Crompton / Usha / etc.)
-        │
-        ▼
-Sentiment Analyzer  (NLTK VADER)
-        │
-        ▼
-Share of Voice Calculator  (Raw SoV + Weighted SoV + Sentiment)
-        │
-        ▼
-CSV + Graphs  (Final outputs)
+<img width="228" height="722" alt="image" src="https://github.com/user-attachments/assets/d6cb5d76-fe32-4ca8-a02b-d5e65f677d25" />
+
 
 
 ## 📦 Deliverables
