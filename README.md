@@ -110,6 +110,3 @@ This AI agent provides a scalable way to quantify brand visibility and sentiment
 
 
 
----
-
-*Feel free to open an issue or submit a PR if you'd like to contribute or extend this analysis to other product categories.*
