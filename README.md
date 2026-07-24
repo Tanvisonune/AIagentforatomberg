@@ -12,7 +12,6 @@ To build an AI agent that:
 - Quantifies Share of Voice using raw mentions and engagement-weighted metrics
 
  🛠️ Tech Stack
-
 | Category | Tools / Libraries |
 
 | Language | Python 3.10+ |
